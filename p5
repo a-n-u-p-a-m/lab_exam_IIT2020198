@@ -1,0 +1,42 @@
+
+Implementing the round robin schedule
+-------------------------------------
+
+You need to program the Round Robin scheduling algorithm reading data from file.
+
+The program will read from a file containing a list of processes with pertinent data for the process and will simulate the execution ofthe processes. 
+
+It will print out the time taken by each process to complete and the wait time.
+
+•Inputs : A filename from the keyboard, read the file for the pertinent data, and a possible time slice size (provided by the user). 
+
+	The input file will look like this :
+
+				Process   Arrival Time	Burst Time
+				
+				 P1           0           20.0 
+				
+				 P2           2           15.0 
+				
+				 P3           4           27.0 
+				
+				 P4           6           36.0 
+				 
+				 
+				 
+•Output :  
+
+A prompt for which file is to be read. A prompt for the amount of time for a time-slice.
+
+A list of each process and the time it took for it to complete. 
+
+
+Example:
+The name of the file to be read: <filename >
+
+Output 
+
+			process name 		completion time 	wait time
+
+
+				? 						? 				?				 
